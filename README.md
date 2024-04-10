@@ -1,6 +1,8 @@
-Hello! My name is Anna. 
-I`m Junior Frontend Developer.
-I`m currently learning JavaScript.
+<h1 align="center">Hi everyone, I'm <a href="https://daniilshat.ru/" target="_blank">Anna</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I`m Junior Frontend Developer from Ukraine, currently live in Krakow. </h3>
+
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlsNGl4YzVud3JtNHIycXExbnIwYzR0c2Rta3NqbjZkcGFhcDZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
