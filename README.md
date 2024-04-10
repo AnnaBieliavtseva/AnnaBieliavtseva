@@ -1,8 +1,9 @@
-Hello! My name is Anna. I`m Junior Frontend Developer.
+Hello! My name is Anna. 
+I`m Junior Frontend Developer.
 I`m currently learning JavaScript.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlsNGl4YzVud3JtNHIycXExbnIwYzR0c2Rta3NqbjZkcGFhcDZ2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
