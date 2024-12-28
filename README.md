@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Anna</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"I’m an ambitious, results-driven and goal-oriented Junior Frontend Developer from Ukraine, currently living in Cracow. </h3>
+<h3 align="center">I’m an ambitious, results-driven and goal-oriented Junior Frontend Developer from Ukraine, currently living in Cracow. </h3>
 
 
 
