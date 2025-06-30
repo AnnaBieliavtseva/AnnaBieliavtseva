@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone, I'm Anna</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I’m an ambitious, results-driven and goal-oriented Junior Frontend Developer from Ukraine, currently living in Cracow. </h3>
+<h3 align="center">I’m an ambitious, results-driven and goal-oriented Frontend Developer from Ukraine, currently living in Cracow. </h3>
 
 
 
@@ -18,4 +18,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40px" height="40"/>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" width="40px" height="40"/>
 </div>
